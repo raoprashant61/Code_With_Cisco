@@ -43,6 +43,7 @@ npm run dev
 * Server
 
 ```shell
+npm install
 npm start
 
 ```
